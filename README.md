@@ -1,7 +1,7 @@
 # Israel-conflict-analysis
 It is the conflict analysis between Israel and Palestine from 2000 to 2023(before war of 2023). I have analysed the tension between Israel and Palestine during the years 2000 to 2023 before the war started as people are getting updates regarding the current situation but I wanted to analyse whatever happened between them during these 20 to 23 years and how many fatalities were there and various other details regarding the same.
 
-**So it ia important to note that I analysed and created insights and visuals according to the dataset which does not include the current war going between these regions. I specifically wanted to understand and analyse the situation from 2000 - 2023(before the war)**
+**So it is important to note that I analysed and created insights and visuals according to the dataset which does not include the current war going between these regions. I specifically wanted to understand and analyse the situation from 2000 - 2023(before the war)**
 
 Technologies/tools used are :-
 
