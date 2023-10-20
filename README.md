@@ -28,15 +28,24 @@ Now let's underastand about the different visualization to have a better underst
 
    **Insight :-** I found that the districts of "Gaza Strip" has maximum number of fatalities across these years and those districts include - "Gaza", "Deir al-Balah", "North Gaza" , "Khan Yunis" , "Rafah". Also the districts of "West Bank" also include the fatalities but they are less in amount if we compare them with "Gaza Strip".
 
+   
 
-2) **Fatalities Divided According to Years**
 
-3) ![fatalities divided according to years](https://github.com/ujjwal717/Israel-conflict-analysis/assets/93403224/0251c1a7-597f-4072-a4ed-699483f11b56)
+3) **Fatalities Divided According to Years**
+
+
+ 
+ ![fatalities divided according to years](https://github.com/ujjwal717/Israel-conflict-analysis/assets/93403224/0251c1a7-597f-4072-a4ed-699483f11b56)
+
 
 
    **Explanation** :- In this visual, we have divided the fatalities according to the different years, It has various years across the X-Axis while the count or amount of fatalities across the Y-Axis.
 
+   
+
    **Insight :-** I found that the maximum amount of fatalities were recorded in 2014 and the reason for that was the "2014 Gaza Conflict" and in a nuthsell, there was fight between the regions which led a lot of fatalities which can be seen from the visual that 2014 recorded maximum amount of fatalities. Also, 2002 also recorded great amount of fatalities which was also due to the battle between the regions which has a detailed explanation of the battle on wikipedia (https://en.wikipedia.org/wiki/Timeline_of_the_Israeli%E2%80%93Palestinian_conflict_in_2002).
+
+
 
 
 
@@ -46,7 +55,10 @@ Now let's underastand about the different visualization to have a better underst
 ![count and percentage of fatalities killed according to forces](https://github.com/ujjwal717/Israel-conflict-analysis/assets/93403224/03224ab3-4b60-4adc-a911-cb0812f049be)
 
 
+
 **Explanation** :- Here we have used a donut chart that shows us the count as well as the percentage of the fatalities that were killed either by israeli/palestinian civilians or Israel Security Forces.
+
+
 
 **Insight :-** I found that around 90 Percent (10,000) fatalities were killed by the Israel Security Forces while 9.2 Percent(1028) fatalities were killed by Palestinian Civilians and 0.86 Percent(96) fatalities were killed by Israeli Civilians.
 
