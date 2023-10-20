@@ -115,3 +115,5 @@ fatalities_gender()
 fatalities_age()
 event_location()
 people_citienship()
+
+db_link.close()
