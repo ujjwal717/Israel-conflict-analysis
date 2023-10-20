@@ -31,7 +31,8 @@ Now let's underastand about the different visualization to have a better underst
    
 
 
-3) **Fatalities Divided According to Years**
+ 
+**Fatalities Divided According to Years**
 
 
  
