@@ -32,7 +32,7 @@ Now let's underastand about the different visualization to have a better underst
 
 
  
-**Fatalities Divided According to Years**
+2) **Fatalities Divided According to Years**
 
 
  
