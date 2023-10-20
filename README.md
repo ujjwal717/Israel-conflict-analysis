@@ -48,11 +48,6 @@ Now let's underastand about the different visualization to have a better underst
 
 
 
-
-
-
-
-
 3) **Count and Percentage of Fatalities killed according to Forces/Civilians**
 
 
